@@ -7,6 +7,9 @@
         "files": {}
     },
     "installed_plugins": {
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "com.app.SearchContactsAPI"
+        },
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "com.app.SearchContactsAPI"
         }
